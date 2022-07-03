@@ -45,7 +45,8 @@ public class HomeTask5 {
             while (input <= 3) {
                 System.out.println("Введенное число должно быть больше 3. Попробуйте снова");
                 input = sc.nextInt();
-                if(input>3){if (input % 2 == 0) {
+                if(input>3){
+                    if (input % 2 == 0) {
                     int[] array = new int[input];
                     int[] array1 = new int[input / 2];
                     int j = 0;

@@ -1,7 +1,5 @@
 package Lesson4;
 
-
-
 public class Calc {
     public static int getMaxValue(int []decMax) {
         int max = decMax[0];
