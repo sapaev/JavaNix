@@ -3,6 +3,7 @@ package Lesson3;
 import java.util.Scanner;
 
 
+
 public class HomeTask1 {
     private static Integer calculateSumFromString(String str) {
         // delete non-digits.
